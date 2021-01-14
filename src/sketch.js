@@ -2,7 +2,7 @@ function setup() {
     createCanvas(100, 100)
 }
 
-// Coordinates
+// Variable to store amount of clicks
 let clickCounter = 0;
 
 function draw() {
